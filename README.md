@@ -1,6 +1,12 @@
+
 # AI Insurance Claims Processing
 
 A Next.js application that leverages AI to process and analyze insurance claims documents.
+## Demo
+
+
+https://github.com/user-attachments/assets/3943c05d-9857-4e9c-aaf0-c64d59a6dc8c
+
 
 ## Setup & Run Instructions
 
